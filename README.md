@@ -9,7 +9,7 @@ I enjoy giving back to the community! I'm one of the organisers of [Monitoring.S
 Currently working in Observability @Atlassian, so I've been enjoying getting to work on the things I'm passionate about for my day job ✨
 
 - 🔭 Doing some design work on setting up an edge router for developers building micro-sites. 
-- 🤓 Currently learning some Rust, and tinkering with some CDK and cdk8s stuff to make using Kubernetes as a developer less 💩
+- 🤓 Currently learning some Rust, and tinkering with some CDK and cdk8s stuff
 - 👬 I'm keen to get more involved with observability projects
 
 Links:

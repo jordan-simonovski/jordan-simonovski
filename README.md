@@ -1,16 +1,17 @@
-### Hi there 👋
+### Sup, Losers 👉😎👉
 
-<!--
-**jordan-simonovski/jordan-simonovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jordan!
 
-Here are some ideas to get you started:
+I've always sat on the fence between dev and ops, and over time I've developed a passion for building dev tools that make working with the cloud and deploying applications an enjoyable experience. 😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy giving back to the community! I'm one of the organisers of [Monitoring.Sydney](https://monitoring.sydney), and this one time I helped organise [DevopsDays Sydney](https://www.devopsdayssydney.org/).
+
+Currently working in Observability @Atlassian, so I've been enjoying getting to work on the things I'm passionate about for my day job ✨
+
+- 🔭 Doing some design work on setting up an edge router for developers building micro-sites. 
+- 🤓 Currently learning some Rust, and tinkering with some CDK and cdk8s stuff to make using Kubernetes as a developer less 💩
+- 👬 I'm keen to get more involved with observability projects
+
+Links:
+- [My Twitter](https://twitter.com/_jsimonovski)
+- [My Blog](https://blog.jordansimonov.ski/)

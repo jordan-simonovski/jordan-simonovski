@@ -1,6 +1,3 @@
-### Sup, Losers 👉😎👉
-
-I'm Jordan!
 
 I've always sat on the fence between dev and ops, and over time I've developed a passion for building dev tools that make working with the cloud and deploying applications an enjoyable experience. 😁
 
@@ -13,5 +10,5 @@ Currently working in Observability @Atlassian, so I've been enjoying getting to 
 - 👬 I'm keen to get more involved with observability projects
 
 Links:
-- [My Twitter](https://twitter.com/_jsimonovski)
+- [Bsky](https://bsky.app/profile/jordansimonov.ski)
 - [My Blog](https://blog.jordansimonov.ski/)

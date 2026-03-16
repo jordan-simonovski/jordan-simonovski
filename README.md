@@ -11,4 +11,4 @@ Currently working in Observability @Atlassian, so I've been enjoying getting to 
 
 Links:
 - [Bsky](https://bsky.app/profile/jordansimonov.ski)
-- [My Blog](https://blog.jordansimonov.ski/)
+- [Me](https://jordansimonov.ski/)

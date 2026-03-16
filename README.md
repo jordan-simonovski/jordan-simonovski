@@ -20,29 +20,6 @@ Build high-scale, high-signal observability platforms and operator workflows
 that reduce MTTR and improve debugging UX.
 </pre>
 
-## NOC Signal Panel
-
-<table>
-  <tr>
-    <td><strong>ClickHouse Ingestion</strong></td>
-    <td><code>100TB/day+</code></td>
-  </tr>
-  <tr>
-    <td><strong>Tempo Ingestion</strong></td>
-    <td><code>180TB/day</code></td>
-  </tr>
-  <tr>
-    <td><strong>Tempo Query Performance</strong></td>
-    <td><code>30%+</code> improvement</td>
-  </tr>
-  <tr>
-    <td><strong>Alert Evaluation Validation</strong></td>
-    <td><code>~200k</code> evaluations</td>
-  </tr>
-</table>
-
-<sub>Signals sourced from the public resume site, updated 2026-03-15.</sub>
-
 ## Trace Timeline (Now)
 
 <details open>
@@ -59,9 +36,9 @@ that reduce MTTR and improve debugging UX.
 
 - Shifted observability strategy toward wide events and scaled ClickHouse to `100TB/day+`.
 - Built and operated Grafana Tempo tracing infrastructure at `180TB/day`.
-- Shipped centralized debugging UX with Grafana Scenes across multiple data sources.
+- Shipped centralised debugging UX with Grafana Scenes across multiple data sources.
 - Designed Atlassian's first service map by covered experience for faster triage.
-- Standardized Kubernetes delivery patterns with reusable Helm-based tooling.
+- Standardised Kubernetes delivery patterns with reusable Helm-based tooling.
 
 ## Community and Leadership
 

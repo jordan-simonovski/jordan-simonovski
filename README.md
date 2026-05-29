@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/jordan-simonovski?tab=followers"><img src="https://img.shields.io/github/followers/jordan-simonovski?style=for-the-badge&logo=github&label=followers" alt="GitHub followers" /></a>
   <img src="https://img.shields.io/badge/focus-observability-0A0A0A?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Observability focus" />
-  <img src="https://img.shields.io/badge/open_to-Staff%2FPrincipal_roles-0A0A0A?style=for-the-badge&logo=opentelemetry&logoColor=8A2BE2" alt="Open to Staff Principal roles" />
+  <!-- <img src="https://img.shields.io/badge/open_to-Staff%2FPrincipal_roles-0A0A0A?style=for-the-badge&logo=opentelemetry&logoColor=8A2BE2" alt="Open to Staff Principal roles" /> -->
 </p>
 
 <pre>

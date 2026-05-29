@@ -1,5 +1,5 @@
 <h1 align="center">Jordan Simonovski</h1>
-<p align="center"><strong>Staff Software Engineer | Observability @ Atlassian</strong></p>
+<p align="center"><strong>Software Engineer | Observability @ ClickHouse</strong></p>
 <p align="center">Blue Mountains, Australia · AEST (UTC+10) · Remote-first</p>
 
 <p align="center">
@@ -13,7 +13,7 @@ $ whoami
 Jordan Simonovski
 
 $ role --current
-Staff Software Engineer, Atlassian Observability
+Software Engineer @ClickHouse
 
 $ mission
 Build high-scale, high-signal observability platforms and operator workflows
